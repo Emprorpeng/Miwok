@@ -1,0 +1,195 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\empro\Desktop\Hrishikesh\Android_projects\Miwok\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Users\empro\Desktop\Hrishikesh\Android_projects\Miwok\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Users\empro\Desktop\Hrishikesh\Android_projects\Miwok\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Users\empro\Desktop\Hrishikesh\Android_projects\Miwok\app\src\main\AndroidManifest.xml:2:1-34:12
+MERGED from [com.android.support:design:26.1.0] C:\Users\empro\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\8a5d57e53aaffee7947edcad5354acdd\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\empro\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\37b538491c8f58ad8b6995e05befd6ec\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\empro\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\da9713ed857cd92696aebb4fa58f4a3e\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:transition:26.1.0] C:\Users\empro\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\37f7b27e1dd6a6c375cd3a88c3ef090c\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\empro\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\e2132bfae589950674067c5336832260\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\empro\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\67f6b4e88ad4546f96379ad0592092d0\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\empro\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\13ca958dbdc00a6c208e47f6984a4bdc\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\empro\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\4fc567bfda0f2083d44483582307829a\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\empro\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\55be67fce8d968ec76303f7ee148be57\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\empro\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\992c497f510c7e57dc276ef40378be01\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\empro\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\0dcd2b14d25fa2a8fe5b012c479f9fb8\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\empro\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\0364910f4e7db2d105b2fe5da9fc30ec\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\empro\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\efd588341a381d02e98ca4643971cd77\AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\empro\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\b34535bc427806f44608a2ce15585934\AndroidManifest.xml:17:1-30:12
+INJECTED from C:\Users\empro\Desktop\Hrishikesh\Android_projects\Miwok\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Users\empro\Desktop\Hrishikesh\Android_projects\Miwok\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Users\empro\Desktop\Hrishikesh\Android_projects\Miwok\app\src\main\AndroidManifest.xml:2:1-34:12
+	package
+		ADDED from C:\Users\empro\Desktop\Hrishikesh\Android_projects\Miwok\app\src\main\AndroidManifest.xml:3:5-39
+		INJECTED from C:\Users\empro\Desktop\Hrishikesh\Android_projects\Miwok\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\empro\Desktop\Hrishikesh\Android_projects\Miwok\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\empro\Desktop\Hrishikesh\Android_projects\Miwok\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\empro\Desktop\Hrishikesh\Android_projects\Miwok\app\src\main\AndroidManifest.xml:2:1-34:12
+		INJECTED from C:\Users\empro\Desktop\Hrishikesh\Android_projects\Miwok\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\empro\Desktop\Hrishikesh\Android_projects\Miwok\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\empro\Desktop\Hrishikesh\Android_projects\Miwok\app\src\main\AndroidManifest.xml:2:1-34:12
+		INJECTED from C:\Users\empro\Desktop\Hrishikesh\Android_projects\Miwok\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\empro\Desktop\Hrishikesh\Android_projects\Miwok\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\empro\Desktop\Hrishikesh\Android_projects\Miwok\app\src\main\AndroidManifest.xml:5:5-32:19
+MERGED from [com.android.support:design:26.1.0] C:\Users\empro\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\8a5d57e53aaffee7947edcad5354acdd\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:design:26.1.0] C:\Users\empro\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\8a5d57e53aaffee7947edcad5354acdd\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\empro\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\37b538491c8f58ad8b6995e05befd6ec\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\empro\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\37b538491c8f58ad8b6995e05befd6ec\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\empro\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\da9713ed857cd92696aebb4fa58f4a3e\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\empro\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\da9713ed857cd92696aebb4fa58f4a3e\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:transition:26.1.0] C:\Users\empro\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\37f7b27e1dd6a6c375cd3a88c3ef090c\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] C:\Users\empro\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\37f7b27e1dd6a6c375cd3a88c3ef090c\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\empro\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\e2132bfae589950674067c5336832260\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\empro\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\e2132bfae589950674067c5336832260\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\empro\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\67f6b4e88ad4546f96379ad0592092d0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\empro\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\67f6b4e88ad4546f96379ad0592092d0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\empro\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\13ca958dbdc00a6c208e47f6984a4bdc\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\empro\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\13ca958dbdc00a6c208e47f6984a4bdc\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\empro\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\4fc567bfda0f2083d44483582307829a\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\empro\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\4fc567bfda0f2083d44483582307829a\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\empro\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\55be67fce8d968ec76303f7ee148be57\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\empro\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\55be67fce8d968ec76303f7ee148be57\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\empro\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\992c497f510c7e57dc276ef40378be01\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\empro\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\992c497f510c7e57dc276ef40378be01\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\empro\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\0dcd2b14d25fa2a8fe5b012c479f9fb8\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\empro\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\0dcd2b14d25fa2a8fe5b012c479f9fb8\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\empro\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\0364910f4e7db2d105b2fe5da9fc30ec\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\empro\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\0364910f4e7db2d105b2fe5da9fc30ec\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\empro\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\efd588341a381d02e98ca4643971cd77\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\empro\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\efd588341a381d02e98ca4643971cd77\AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\empro\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\b34535bc427806f44608a2ce15585934\AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\empro\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\b34535bc427806f44608a2ce15585934\AndroidManifest.xml:24:5-28:19
+	android:supportsRtl
+		ADDED from C:\Users\empro\Desktop\Hrishikesh\Android_projects\Miwok\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\empro\Desktop\Hrishikesh\Android_projects\Miwok\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\empro\Desktop\Hrishikesh\Android_projects\Miwok\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\empro\Desktop\Hrishikesh\Android_projects\Miwok\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\empro\Desktop\Hrishikesh\Android_projects\Miwok\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\empro\Desktop\Hrishikesh\Android_projects\Miwok\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.normal.miwok.MainActivity
+ADDED from C:\Users\empro\Desktop\Hrishikesh\Android_projects\Miwok\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from C:\Users\empro\Desktop\Hrishikesh\Android_projects\Miwok\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\empro\Desktop\Hrishikesh\Android_projects\Miwok\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\empro\Desktop\Hrishikesh\Android_projects\Miwok\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\Users\empro\Desktop\Hrishikesh\Android_projects\Miwok\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\empro\Desktop\Hrishikesh\Android_projects\Miwok\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\Users\empro\Desktop\Hrishikesh\Android_projects\Miwok\app\src\main\AndroidManifest.xml:16:27-74
+activity#com.example.normal.miwok.Numbers
+ADDED from C:\Users\empro\Desktop\Hrishikesh\Android_projects\Miwok\app\src\main\AndroidManifest.xml:19:9-22:20
+	android:parentActivityName
+		ADDED from C:\Users\empro\Desktop\Hrishikesh\Android_projects\Miwok\app\src\main\AndroidManifest.xml:20:13-55
+	android:name
+		ADDED from C:\Users\empro\Desktop\Hrishikesh\Android_projects\Miwok\app\src\main\AndroidManifest.xml:19:19-42
+activity#com.example.normal.miwok.Colors
+ADDED from C:\Users\empro\Desktop\Hrishikesh\Android_projects\Miwok\app\src\main\AndroidManifest.xml:23:9-25:16
+	android:parentActivityName
+		ADDED from C:\Users\empro\Desktop\Hrishikesh\Android_projects\Miwok\app\src\main\AndroidManifest.xml:24:13-55
+	android:name
+		ADDED from C:\Users\empro\Desktop\Hrishikesh\Android_projects\Miwok\app\src\main\AndroidManifest.xml:23:19-41
+activity#com.example.normal.miwok.Family
+ADDED from C:\Users\empro\Desktop\Hrishikesh\Android_projects\Miwok\app\src\main\AndroidManifest.xml:26:9-28:16
+	android:parentActivityName
+		ADDED from C:\Users\empro\Desktop\Hrishikesh\Android_projects\Miwok\app\src\main\AndroidManifest.xml:27:13-55
+	android:name
+		ADDED from C:\Users\empro\Desktop\Hrishikesh\Android_projects\Miwok\app\src\main\AndroidManifest.xml:26:19-41
+activity#com.example.normal.miwok.Phrases
+ADDED from C:\Users\empro\Desktop\Hrishikesh\Android_projects\Miwok\app\src\main\AndroidManifest.xml:29:9-31:20
+	android:parentActivityName
+		ADDED from C:\Users\empro\Desktop\Hrishikesh\Android_projects\Miwok\app\src\main\AndroidManifest.xml:30:13-55
+	android:name
+		ADDED from C:\Users\empro\Desktop\Hrishikesh\Android_projects\Miwok\app\src\main\AndroidManifest.xml:29:19-42
+uses-sdk
+INJECTED from C:\Users\empro\Desktop\Hrishikesh\Android_projects\Miwok\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\empro\Desktop\Hrishikesh\Android_projects\Miwok\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\empro\Desktop\Hrishikesh\Android_projects\Miwok\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:26.1.0] C:\Users\empro\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\8a5d57e53aaffee7947edcad5354acdd\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:26.1.0] C:\Users\empro\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\8a5d57e53aaffee7947edcad5354acdd\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\empro\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\37b538491c8f58ad8b6995e05befd6ec\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\empro\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\37b538491c8f58ad8b6995e05befd6ec\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\empro\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\da9713ed857cd92696aebb4fa58f4a3e\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\empro\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\da9713ed857cd92696aebb4fa58f4a3e\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:transition:26.1.0] C:\Users\empro\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\37f7b27e1dd6a6c375cd3a88c3ef090c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] C:\Users\empro\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\37f7b27e1dd6a6c375cd3a88c3ef090c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\empro\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\e2132bfae589950674067c5336832260\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\empro\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\e2132bfae589950674067c5336832260\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\empro\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\67f6b4e88ad4546f96379ad0592092d0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\empro\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\67f6b4e88ad4546f96379ad0592092d0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\empro\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\13ca958dbdc00a6c208e47f6984a4bdc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\empro\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\13ca958dbdc00a6c208e47f6984a4bdc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\empro\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\4fc567bfda0f2083d44483582307829a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\empro\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\4fc567bfda0f2083d44483582307829a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\empro\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\55be67fce8d968ec76303f7ee148be57\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\empro\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\55be67fce8d968ec76303f7ee148be57\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\empro\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\992c497f510c7e57dc276ef40378be01\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\empro\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\992c497f510c7e57dc276ef40378be01\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\empro\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\0dcd2b14d25fa2a8fe5b012c479f9fb8\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\empro\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\0dcd2b14d25fa2a8fe5b012c479f9fb8\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\empro\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\0364910f4e7db2d105b2fe5da9fc30ec\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\empro\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\0364910f4e7db2d105b2fe5da9fc30ec\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\empro\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\efd588341a381d02e98ca4643971cd77\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\empro\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\efd588341a381d02e98ca4643971cd77\AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\empro\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\b34535bc427806f44608a2ce15585934\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\empro\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\b34535bc427806f44608a2ce15585934\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\empro\Desktop\Hrishikesh\Android_projects\Miwok\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\empro\Desktop\Hrishikesh\Android_projects\Miwok\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.1.0] C:\Users\empro\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\8a5d57e53aaffee7947edcad5354acdd\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Users\empro\Desktop\Hrishikesh\Android_projects\Miwok\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\empro\Desktop\Hrishikesh\Android_projects\Miwok\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\empro\Desktop\Hrishikesh\Android_projects\Miwok\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\empro\Desktop\Hrishikesh\Android_projects\Miwok\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\empro\Desktop\Hrishikesh\Android_projects\Miwok\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\empro\Desktop\Hrishikesh\Android_projects\Miwok\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.1.0] C:\Users\empro\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\8a5d57e53aaffee7947edcad5354acdd\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\empro\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\37b538491c8f58ad8b6995e05befd6ec\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\empro\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\37b538491c8f58ad8b6995e05befd6ec\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:transition:26.1.0] C:\Users\empro\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\37f7b27e1dd6a6c375cd3a88c3ef090c\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] C:\Users\empro\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\37f7b27e1dd6a6c375cd3a88c3ef090c\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\empro\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\e2132bfae589950674067c5336832260\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\empro\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\e2132bfae589950674067c5336832260\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\empro\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\67f6b4e88ad4546f96379ad0592092d0\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\empro\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\67f6b4e88ad4546f96379ad0592092d0\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\empro\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\13ca958dbdc00a6c208e47f6984a4bdc\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\empro\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\13ca958dbdc00a6c208e47f6984a4bdc\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\empro\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\4fc567bfda0f2083d44483582307829a\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\empro\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\4fc567bfda0f2083d44483582307829a\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\empro\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\55be67fce8d968ec76303f7ee148be57\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\empro\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\55be67fce8d968ec76303f7ee148be57\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\empro\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\992c497f510c7e57dc276ef40378be01\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\empro\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\992c497f510c7e57dc276ef40378be01\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\empro\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\0dcd2b14d25fa2a8fe5b012c479f9fb8\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\empro\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\0dcd2b14d25fa2a8fe5b012c479f9fb8\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\empro\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\0364910f4e7db2d105b2fe5da9fc30ec\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\empro\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\0364910f4e7db2d105b2fe5da9fc30ec\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\empro\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\efd588341a381d02e98ca4643971cd77\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\empro\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\efd588341a381d02e98ca4643971cd77\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:design:26.1.0] C:\Users\empro\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\8a5d57e53aaffee7947edcad5354acdd\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:design:26.1.0] C:\Users\empro\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\8a5d57e53aaffee7947edcad5354acdd\AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\empro\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\b34535bc427806f44608a2ce15585934\AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\empro\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\b34535bc427806f44608a2ce15585934\AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\empro\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\b34535bc427806f44608a2ce15585934\AndroidManifest.xml:26:13-58
