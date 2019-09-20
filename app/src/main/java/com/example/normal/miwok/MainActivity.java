@@ -7,7 +7,7 @@ package com.example.normal.miwok;
         import android.os.Bundle;
         import android.support.design.widget.TabLayout;
 
-
+//The main activity of the app. Has a viewpager to load the various fragments.
 public class MainActivity extends AppCompatActivity {
 
     @Override

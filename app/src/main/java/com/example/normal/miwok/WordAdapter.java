@@ -19,7 +19,7 @@ import java.util.List;
 /**
  * Created by Normal on 2/18/18.
  */
-
+//The array adapter to display the various translations in a ListView.
 public class WordAdapter extends ArrayAdapter<Word> {
 
     public WordAdapter(Activity context, ArrayList<Word> word){

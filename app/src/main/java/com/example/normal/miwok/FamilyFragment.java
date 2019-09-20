@@ -13,7 +13,7 @@ import android.widget.AdapterView;
 import android.widget.ListView;
 import java.util.ArrayList;
 
-
+//The Family fragment class. Displays all the words for family relations and translations.
 public class FamilyFragment extends Fragment {
 
     private AudioManager am;
@@ -25,24 +25,16 @@ public class FamilyFragment extends Fragment {
                     if (i == AudioManager.AUDIOFOCUS_GAIN) {
                         mMediaPlayer.start();
                     }
-//                    if (i == AudioManager.AUDIOFOCUS_LOSS_TRANSIENT || i == AudioManager.AUDIOFOCUS_LOSS_TRANSIENT_CAN_DUCK) {
-//                        mMediaPlayer.pause();
-//                    }
+
                     if (i == AudioManager.AUDIOFOCUS_LOSS) {
                         mMediaPlayer.stop();
                     }
                 }
             };
     private void releaseMediaPlayer() {
-        // If the media player is not null, then it may be currently playing a sound.
         if (mMediaPlayer != null) {
-            // Regardless of the current state of the media player, release its resources
-            // because we no longer need it.
             mMediaPlayer.release();
 
-            // Set the media player back to null. For our code, we've decided that
-            // setting the media player to null is an easy way to tell that the media player
-            // is not configured to play an audio file at the moment.
             mMediaPlayer = null;
             am.abandonAudioFocus(afChangeListner);
         }

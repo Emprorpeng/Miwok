@@ -8,7 +8,7 @@ import android.support.v4.app.FragmentPagerAdapter;
 /**
  * Created by Normal on 3/15/18.
  */
-
+//The custom implementation for fragment pager adapter. Controls the viewing of fragments in the view pager.
 class FixedTabsPagerAdapter extends FragmentPagerAdapter {
     private Context mContext;
     public FixedTabsPagerAdapter(Context context,FragmentManager fm){

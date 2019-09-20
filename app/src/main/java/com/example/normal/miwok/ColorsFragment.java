@@ -19,6 +19,7 @@ import java.util.zip.Inflater;
 /**
  * A simple {@link Fragment} subclass.
  */
+//The colours fragment class. Displays all the colours and translations.
 public class ColorsFragment extends Fragment {
 
     private AudioManager am;
@@ -30,9 +31,6 @@ public class ColorsFragment extends Fragment {
                     if (i == AudioManager.AUDIOFOCUS_GAIN) {
                         mMediaPlayer.start();
                     }
-//                    if (i == AudioManager.AUDIOFOCUS_LOSS_TRANSIENT || i == AudioManager.AUDIOFOCUS_LOSS_TRANSIENT_CAN_DUCK) {
-//                        mMediaPlayer.pause();
-//                    }
                     if (i == AudioManager.AUDIOFOCUS_LOSS) {
                         mMediaPlayer.stop();
                     }

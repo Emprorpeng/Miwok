@@ -14,6 +14,7 @@ import android.widget.ListView;
 import android.widget.TextView;
 
 import java.util.ArrayList;
+//The Phrases fragment class. Displays all the words for common phrases and translations.
 
 public class PhrasesFragment extends Fragment {
     @Override
@@ -30,9 +31,6 @@ public class PhrasesFragment extends Fragment {
                     if (i == AudioManager.AUDIOFOCUS_GAIN) {
                         mMediaPlayer.start();
                     }
-//                    if (i == AudioManager.AUDIOFOCUS_LOSS_TRANSIENT || i == AudioManager.AUDIOFOCUS_LOSS_TRANSIENT_CAN_DUCK) {
-//                        mMediaPlayer.pause();
-//                    }
                     if (i == AudioManager.AUDIOFOCUS_LOSS) {
                         mMediaPlayer.stop();
                     }
@@ -40,8 +38,6 @@ public class PhrasesFragment extends Fragment {
             };
     private void releaseMediaPlayer() {
         if (mMediaPlayer != null) {
-            // Regardless of the current state of the media player, release its resources
-            // because we no longer need it.
             mMediaPlayer.release();
             mMediaPlayer = null;
             am.abandonAudioFocus(afChangeListner);

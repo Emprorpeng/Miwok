@@ -14,7 +14,7 @@ import android.widget.ListView;
 import android.widget.TextView;
 
 import java.util.ArrayList;
-
+//The Numbers fragment class. Displays all the words for numbers and translations.
 public class NumbersFragment extends Fragment {
 
     private AudioManager am;
@@ -26,9 +26,6 @@ public class NumbersFragment extends Fragment {
                     if (i == AudioManager.AUDIOFOCUS_GAIN) {
                         mMediaPlayer.start();
                     }
-//                    if (i == AudioManager.AUDIOFOCUS_LOSS_TRANSIENT || i == AudioManager.AUDIOFOCUS_LOSS_TRANSIENT_CAN_DUCK) {
-//                        mMediaPlayer.pause();
-//                    }
                     if (i == AudioManager.AUDIOFOCUS_LOSS) {
                         mMediaPlayer.stop();
                     }

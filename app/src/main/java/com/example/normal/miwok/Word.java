@@ -3,7 +3,7 @@ package com.example.normal.miwok;
 /**
  * Created by Normal on 2/18/18.
  */
-
+//The Word POJO class
 public class Word {
     private String mDefaultTranslation;
     private String mMiwokTranslation;
