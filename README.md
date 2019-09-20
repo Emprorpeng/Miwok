@@ -1,7 +1,7 @@
 # Miwok
 > Your personal Miwok translator !
 
-An android app which helps in understanding the native american language, Miwok. It gives you the transaltions for various commonly used words for Colours, Family relations , Numbers and Phrases and also gives the user their pronounciation.
+An android app which helps in understanding the native american language, Miwok. It gives you the translations for various commonly used words for Colours, Family relations , Numbers and Phrases and also gives the user their pronounciations.
 
 ## Screenshots
 
